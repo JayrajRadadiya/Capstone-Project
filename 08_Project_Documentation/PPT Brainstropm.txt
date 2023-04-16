@@ -1,11 +1,12 @@
-Index
-Life of a Student:
+ - Index:
+
+ - Life of a Student:
 all of us wants a better college experince, some things are in our control, some out of control
 Factors - Living experience, back ground, flexibility and college experience 
 
 1. is there a relation? what kind of relation? what kind of factors effect it?  
 
-Problem statement:
+ - Problem statement:
 To investigate whether there is a correlation between demographic, academic, and living factors.  A series of surveys (two in total) will focus on identifying the challenges that students face in areas such as accommodation, transportation, educational support, college schedules, health services, and other matters.
  
 Target population: DAB program Students
@@ -33,12 +34,44 @@ Identify the various services utilized by students
 Assess the impact of various college services in addressing student needs.
 
 
-Solutioning
+
+
+
+
+
+ - Solutioning
 to use all phadses fo a data journey  (collection  -- pre processing -- transformation -- prediction - outcomes)
 Primary sol: Data story - jo journey batayega - Student background se leke uske academic exproience connection
 extra: short useful insights regarding student's feedback towards services, college 
 
-Technologies - Data flow
+ - Technologies - Data flow
+collection  -- pre processing -- transformation -- prediction - outcomes
+Technologies used 
+Architecture
+
+
+
+DEMO: 
+
+Story mode: explain all dashboards
+Live data flow demo
+
+Best features of the project and Challenges faced
+Solutions provided 
+Future implementation
+
+
+Thanks
+
+
+Dr Vikesh Maraj MBChB CCFP FCFP CPSO 85807
+5565 Wyandotte Street East 
+Windsor 
+ON 
+N8S 4T9
+Phone 519 9742924
+Fax 519 948 9033
+
 
 
 
